@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Mini-app like hamster kombat
         </a>
       </header>
     </div>
